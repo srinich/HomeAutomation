@@ -4,6 +4,8 @@ This JQuery script contains all the functions to support the UI actions.
 Each function maps to a "class" in the UI. As an example, bedroom1_curtain is a class and I've defined a function to intercept
 the click action on this class. THis allows clear extensions to this script. If you need to add more events, you can identify the class/id name from the HTML definition and define a function here.
 */
+
+
 /*
 References:
 1.http://roundsliderui.com/ - Built emperature slider widget using the examples in this website
