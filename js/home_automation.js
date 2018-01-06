@@ -5,8 +5,18 @@ Each function maps to a "class" in the UI. As an example, bedroom1_curtain is a 
 the click action on this class. THis allows clear extensions to this script. If you need to add more events, you can identify the class/id name from the HTML definition and define a function here.
 */
 
+
 /*
-	The following two funtions defines the action for close/open curtain buttons
+References:
+1.http://roundsliderui.com/ - Built emperature slider widget using the examples in this website
+2.https://jquery.com/ - Reference manual for learning and building Jquery functions
+3.https://www.w3schools.com/css/css_howto.asp - Reference manual for CSS definition
+4.http://www.litemode.ca/inspiration - This site is the source for all the images used in the project
+*/ 
+
+
+/*
+The following two funtions defines the action for close/open curtain buttons
 */
 $("input[class='bedroom1_curtain']").click(function() {
   if (this.value == "Open Curtains") {
