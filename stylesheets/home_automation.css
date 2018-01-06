@@ -1,0 +1,79 @@
+			  
+			  body {
+				font-family: 'Verdana, Geneva, sans-serif';	
+				font-size: 36;
+				font-weight: bold;
+				text-align: center;
+				}
+
+			  .container {
+				width: 57%;
+			    margin-left: auto;
+			    margin-right: auto;
+				text-align: center;
+			  }
+			  .bedroom1 {
+			    background-image: url('http://s3-us-west-1.amazonaws.com/srinic.com/images/bedroom-light-on.png');
+			    background-blend-mode: lighten;
+			    background-size: 500px 250px;
+			    background-repeat: no-repeat;
+			    height: 250px;
+			    width: 350px;
+			    border: 1px solid;
+			    text-align: center;
+			    vertical-align: middle;
+			    display: inline-block;
+			  }
+			  
+			  .kitchen {
+			    background-image: url('http://s3-us-west-1.amazonaws.com/srinic.com/images/kitchen-lights-on.jpg');
+			    background-blend-mode: lighten;
+			    background-size: 500px 250px;
+			    background-repeat: no-repeat;
+			    height: 250px;
+			    width: 350px;
+			    border: 1px solid;
+			    text-align: center;
+			    vertical-align: middle;
+			  }
+			  
+			  .fireplace {
+			    background-image: url('http://s3-us-west-1.amazonaws.com/srinic.com/images/fireplace.jpg');
+			    background-color: lighten;
+			    background-size: 705px 250px;
+			    background-repeat: no-repeat;
+			    height: 250px;
+			    width: 705px;
+			    border: 1px solid;
+			    text-align: center;
+			    vertical-align: middle;
+			  }
+			  
+			  .slider {
+			    display: inline-block;
+			    text-align: center;
+			    margin-top: 40px;
+			    justify-content: center;
+			    align-items: center;
+			    vertical-align: middle;
+			  }
+ 
+			  .centre-align {
+			    display: flex;
+			    height: 100%;
+			    justify-content: center;
+			    align-items: center;
+			  }
+			  .buttons {
+			    display: inline-block;
+			    vertical-align: middle;
+			  }
+			  	  			
+			  .rs-handle {
+			    background-color: darkorange;
+			  }
+			   .rs-path-color {
+			    background-color: #656d78;
+			  }
+			  
+	
