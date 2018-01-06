@@ -4,6 +4,6 @@ A JavaScript application simulating house automation: pressing a button on a con
 
 The application is built using JQuery functions. The application simulates "server interaction" (use a static file for simplicity, data persistence is not required). For example, the heating component retrieves the current temperature from the server and also sends the desired one back to the local storage. 
 
-A working demo of this application will be available in this URL for sometime : http://srinic.com
+To run this application, simply download the project as zip, extract the files to a local folder and open the index.html page in a browser. A working demo of this application will be available in this URL for sometime : http://srinic.com
 
 
